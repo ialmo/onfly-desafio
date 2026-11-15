@@ -3,7 +3,7 @@
 ## 1. Ferramenta e modelo
 
 - Claude Code (CLI), modelo Claude Opus 5.5 (`claude-opus-5-5`).
-- Sessão exportada com `/export` em `sessao-claude-code.md`.
+- Sessão exportada com `/export` em `sessao.txt`.
 
 ## 2. O que a IA fez
 
